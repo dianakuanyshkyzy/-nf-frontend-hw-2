@@ -19,3 +19,5 @@ npm install
 npm run dev 
 ```
 Open your browser and navigate to localhost. 
+
+A link to deployed project: https://nf-frontend-hw-2-lake.vercel.app/
